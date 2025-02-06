@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist and Developer"
   location         : "Woods Hole, MA"
-  employer         : "IBSS in support of NOAA Fisheries"
+  employer         : "IBSS in support of <br> NOAA Fisheries"
   uri              : # URL
   email            : 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/andy-beet-611017107/"
+  linkedin         : "andy-beet-611017107/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
