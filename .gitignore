@@ -13,6 +13,8 @@ node_modules
 package-lock.json
 .Rproj.user
 
-# other files
+# other files/folders
 *.Rproj
 .Rhistory
+other
+
