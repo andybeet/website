@@ -1,6 +1,6 @@
 ---
 title: "stocksmart"
-excerpt: "R package serving stock assessment data<br/><img src='/images/stocksmart.png'>"
+excerpt: "R package serving stock assessment data<br/><img src='/images/stocksmart-250px.png'>"
 collection: portfolio
 ---
 
