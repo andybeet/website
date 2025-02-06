@@ -16,17 +16,3 @@ I also hold a guest investigator position in the [Marine Policy Center](https://
 My work and research
 ======
 
-Getting started
-======
-
-Site-wide configuration
-------
-
-Create content & metadata
-------
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------

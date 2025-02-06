@@ -1,7 +1,24 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "stocksmart"
+excerpt: "R package serving stock assessment data<br/><img src='/images/stocksmart.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Stock assessments reports are typically lengthy documents containing a
+great deal of information. This repo contains time series data for all
+Federally assessed stocks in the United States. The following time
+series are available:
+
+- Catch - By weight or by number of individuals (species specific)
+- Abundance - By weight or by number of individuals (species specific)
+- Index - An index of abundance (shrimp only)
+- Recruitment - By weight or by number of individuals (species specific)
+- Fishing mortality
+
+Summary statistics for these assessments are also available (FMSY, BMSY,
+Ftarget etc) in addition to metadata (Stock Name, Stock Area,
+Jurisdiction, Point of contact, Year of assessment etc)
+
+The data are extracted and processed from NOAA’s [Stock
+SMART](https://apps-st.fisheries.noaa.gov/stocksmart) web based data
+portal.
