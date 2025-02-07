@@ -1,6 +1,6 @@
 ---
 title: "buoydata"
-excerpt: "R package serving National Data buoy Center data<br/><img src='/images/buoydata-250px.png'>"
+excerpt: "R package serving National Data Buoy Center (NDBC) data<br/><img src='/images/buoydata-250px.png'>"
 collection: portfolio
 ---
 
