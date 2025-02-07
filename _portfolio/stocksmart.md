@@ -1,6 +1,6 @@
 ---
 title: "stocksmart"
-excerpt: "R package serving stock assessment data<br/><img src='/images/stocksmart-250px.png'>"
+excerpt: "R package serving stock assessment data for all federally managed species<br/><img src='/images/stocksmart-250px.png'>"
 collection: portfolio
 ---
 
@@ -20,5 +20,6 @@ Ftarget etc) in addition to metadata (Stock Name, Stock Area,
 Jurisdiction, Point of contact, Year of assessment etc)
 
 The data are extracted and processed from NOAA’s [Stock
-SMART](https://apps-st.fisheries.noaa.gov/stocksmart) web based data
-portal.
+SMART](https://apps-st.fisheries.noaa.gov/stocksmart) web based data portal.
+
+* Github: View the [stocksmart](https://github.com/NOAA-EDAB/stocksmart/) R package

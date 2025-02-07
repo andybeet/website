@@ -1,6 +1,6 @@
 ---
 title: "buoydata"
-excerpt: "R package serving National Data Buoy Center (NDBC) data<br/><img src='/images/buoydata-250px.png'>"
+excerpt: "R package serving National Data Buoy Center (NDBC) data from all buoys around the world<br/><img src='/images/buoydata-250px.png'>"
 collection: portfolio
 ---
 
@@ -11,3 +11,5 @@ collection: portfolio
 The package comes with lazily loaded station description data provided which combines many station attributes by which to filter.
 
 Currently the package only downloads Historic data, defined as data from January - December for all years prior to the current year.
+
+* Github: View the [buoydata](https://github.com/NOAA-EDAB/buoydata?tab=readme-ov-file#buoydata-) R package
