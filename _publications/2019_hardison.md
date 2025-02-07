@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019_hardison
 excerpt: 'The identification of trends in ecosystem indicators has become a core component of ecosystem approaches to resource management, although oftentimes assumptions of statistical models are not properly accounted for in the reporting process. To explore ...'
-date: 2019
+date: 2019-12-01
 venue: 'ICES Journal of Marine Science'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.1093/icesjms/fsz097'
