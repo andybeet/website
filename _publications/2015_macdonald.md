@@ -1,0 +1,13 @@
+---
+title: "Natural and unnatural oil slicks in the Gulf of Mexico"
+collection: publications
+category: manuscripts
+permalink: /publication/2019__efrain_diaz_macdonald
+excerpt: 'When wind speeds are 2–10 m s−1, reflective contrasts in the ocean surface make oil slicks visible to synthetic aperture radar (SAR) under all sky conditions. Neural network analysis of satellite SAR images quantified the magnitude and distribution of surface oil in the Gulf of Mexico from persistent, natural seeps and from the Deepwater Horizon (DWH) discharge ...'
+date: 2015-12-01
+venue: 'Journal of Geophysical Research: Oceans'
+paperurl: 'https://doi.org/10.1002/2015JC011062'
+citation: 'MacDonald, I. R., Garcia-Pineda, O., Beet, A., Asl, S. D., Feng, L., Graettinger, G., French-McCay, D., Holmes, J., Hu, C., Huffer, F., Leifer, I., Muller-Karger, F., Solow, A., Silva, M., & Swayze, G. (2015). <i>Journal of Geophysical Research: Oceans</i> &quot;Volume 120, Issue 12, 8364-8380.&quot;.'
+---
+
+When wind speeds are 2–10 m s−1, reflective contrasts in the ocean surface make oil slicks visible to synthetic aperture radar (SAR) under all sky conditions. Neural network analysis of satellite SAR images quantified the magnitude and distribution of surface oil in the Gulf of Mexico from persistent, natural seeps and from the Deepwater Horizon (DWH) discharge. This analysis identified 914 natural oil seep zones across the entire Gulf of Mexico in pre‐2010 data. Their ∼0.1 µm slicks covered an aggregated average of 775 km2. Assuming an average volume of 77.5 m3 over an 8–24 h lifespan per oil slick, the floating oil indicates a surface flux of 2.5–9.4 × 104 m3 yr−1. Oil from natural slicks was regionally concentrated: 68%, 25%, 7%, and <1% of the total was observed in the NW, SW, NE, and SE Gulf, respectively. This reflects differences in basin history and hydrocarbon generation. SAR images from 2010 showed that the 87 day DWH discharge produced a surface‐oil footprint fundamentally different from background seepage, with an average ocean area of 11,200 km2 (SD 5028) and a volume of 22,600 m3 (SD 5411). Peak magnitudes of oil were detected during equivalent, ∼14 day intervals around 23 May and 18 June, when wind speeds remained <5 m s−1. Over this interval, aggregated volume of floating oil decreased by 21%; area covered increased by 49% (p < 0.1), potentially altering its ecological impact. The most likely causes were increased applications of dispersant and surface burning operations.
