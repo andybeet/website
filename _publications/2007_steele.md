@@ -6,7 +6,7 @@ permalink: /publication/2007_steele
 excerpt: 'Oceanographic regimes on the continental shelf display a great range in the time scales of physical exchange, biochemical processes and trophic transfers. The close surface-to-seabed physical coupling at intermediate scales of weeks to months means that the open ocean ...'
 date: 2007-09-01
 venue: 'Progress in Oceanography'
-paperurl:' https://doi.org/10.1016/j.pocean.2007.05.003'
+paperurl: 'https://doi.org/10.1016/j.pocean.2007.05.003'
 citation: 'J.H. Steele, J.S. Collie, J.J. Bisagni, D.J. Gifford, M.J. Fogarty, J.S. Link, B.K. Sullivan, M.E. Sieracki, A.R. Beet, D.G. Mountain, E.G. Durbin, D. Palka, W.T. Stockhausen. (2007). <i>Progress in Oceanography</i> &quot;Volume 74, Issue 4,
 Pages 423-448,
 ISSN 0079-661.&quot;.'

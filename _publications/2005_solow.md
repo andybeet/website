@@ -6,7 +6,7 @@ permalink: /publication/2005_solow
 excerpt: 'This note describes a formal statistical approach to testing for a regime shift based on population time series for a system of interacting species or groups. Under this approach ...'
 date: 2005-04-18
 venue: 'Fisheries Oceanography'
-paperurl:'https://doi.org/10.1111/j.1365-2419.2005.00329.x'
+paperurl: 'https://doi.org/10.1111/j.1365-2419.2005.00329.x'
 citation: 'Solow, A. R., & Beet, A. R. (2005). <i>Fisheries Oceanography</i> &quot;14(3), 236-240.&quot;.'
 ---
 

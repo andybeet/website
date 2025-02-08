@@ -6,7 +6,7 @@ permalink: /publication/2007_solow
 excerpt: 'There is considerable interest in understanding the effect of the North Atlantic Oscillation (NAO) on recruitment to North Atlantic cod stocks. An earlier analysis of data for the North‐east Arctic cod stock showed that, while there is ...'
 date: 2007-08-23
 venue: 'Fisheries Oceanography'
-paperurl:'https://doi.org/10.1111/j.1365-2419.2007.00439.x'
+paperurl: 'https://doi.org/10.1111/j.1365-2419.2007.00439.x'
 citation: 'Solow, A. R., & Beet, A. R. (2007). <i>Fisheries Oceanography</i> &quot;16(5), 479-481.&quot;.'
 ---
 
