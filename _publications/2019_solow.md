@@ -1,5 +1,5 @@
 ---
-title: "AThe Most Recent Cascadia Earthquake and Native American Narratives"
+title: "The Most Recent Cascadia Earthquake and Native American Narratives"
 collection: publications
 category: manuscripts
 permalink: /publication/2019_solow

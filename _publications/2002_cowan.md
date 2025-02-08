@@ -6,7 +6,7 @@ permalink: /publication/2002_cowan
 excerpt: 'The combined effort of assessing abundance and measuring the time between settlement and recruitment is fundamental to forecasting future recruitment to the lobster fishery. This study represents the first monthly year-round sampling for ...'
 date: 2002-01-25
 venue: 'Marine and Freshwater Research'
-paperurl:'https://doi.org/10.1071/MF01191'
+paperurl: 'https://doi.org/10.1071/MF01191'
 citation: 'Cowan, D. F., Solow, A. R., & Beet, A. (2002). <i>Marine and Freshwater Research</i> &quot;52(8), 1095-1102.&quot;.'
 ---
 
