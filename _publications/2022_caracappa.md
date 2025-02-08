@@ -7,7 +7,6 @@ permalink: /publication/2022_caracappa
 excerpt: 'The northeast United States Atlantis model (NEUSv2) is an end-to-end ecosystem model that can simulate biogeochemical, ecological, fishery, management, and socio-economic processes within marine ecosystems. As a major update ...'
 date: 2022-09-01
 venue: 'Ecological Modelling'
-#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1016/j.ecolmodel.2022.110038'
 citation: 'Joseph C. Caracappa, Andrew Beet, Sarah Gaichas, Robert J. Gamble, Kimberly J.W. Hyde, Scott I. Large, Ryan E. Morse, Charles A. Stock, Vincent S. Saba. (2022). <i>Ecological Modelling</i> &quot;Volume 471,
 2022,

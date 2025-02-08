@@ -1,0 +1,15 @@
+---
+title: "Balancing end-to-end budgets of the Georges Bank ecosystem"
+collection: publications
+category: manuscripts
+permalink: /publication/2007_steele
+excerpt: 'Oceanographic regimes on the continental shelf display a great range in the time scales of physical exchange, biochemical processes and trophic transfers. The close surface-to-seabed physical coupling at intermediate scales of weeks to months means that the open ocean ...'
+date: 2007-09-01
+venue: 'Progress in Oceanography'
+paperurl:' https://doi.org/10.1016/j.pocean.2007.05.003'
+citation: 'J.H. Steele, J.S. Collie, J.J. Bisagni, D.J. Gifford, M.J. Fogarty, J.S. Link, B.K. Sullivan, M.E. Sieracki, A.R. Beet, D.G. Mountain, E.G. Durbin, D. Palka, W.T. Stockhausen. (2007). <i>Progress in Oceanography</i> &quot;Volume 74, Issue 4,
+Pages 423-448,
+ISSN 0079-661.&quot;.'
+---
+
+Oceanographic regimes on the continental shelf display a great range in the time scales of physical exchange, biochemical processes and trophic transfers. The close surface-to-seabed physical coupling at intermediate scales of weeks to months means that the open ocean simplification to a purely pelagic food web is inadequate. Top-down trophic depictions, starting from the fish populations, are insufficient to constrain a system involving extensive nutrient recycling at lower trophic levels and subject to physical forcing as well as fishing. These pelagic–benthic interactions are found on all continental shelves but are particularly important on the relatively shallow Georges Bank in the northwest Atlantic. We have generated budgets for the lower food web for three physical regimes (Well-mixed, Transitional and Stratified) and for three seasons (Spring, Summer and Fall/Winter). The calculations show that vertical mixing and lateral exchange between the three regimes are important for zooplankton production as well as for nutrient input. Benthic suspension feeders are an additional critical pathway for transfers to higher trophic levels. Estimates of production by mesozooplankton, benthic suspension feeders and deposit feeders, derived primarily from data collected during the GLOBEC years of 1995–1999, provide input to an upper food web. Diets of commercial fish populations are used to calculate food requirements in three fish categories, planktivores, benthivores and piscivores, for four decades, 1963–2002, between which there were major changes in the fish communities. Comparisons of inputs from the lower web with fish energetic requirements for plankton and benthos indicate that we obtained reasonable agreement for the last three decades, 1973–2002. However, for the first decade, the fish food requirements were significantly less than the inputs. This decade, 1963–1972, corresponds to a period characterized by a strong Labrador Current and lower nitrate levels at the shelf-edge, demonstrating how strong bottom-up physical forcing may determine overall fish yields.
