@@ -4,7 +4,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-I am always willing to work on collaborative projects, predominantly in R. Please feel free to drop me an email or reach out to me through other avenues listed below.
+Want to work together on a project? I am always willing to work on collaborative projects, predominantly in R. Please feel free to drop me an email or reach out to me through other avenues listed below.
 
 * E-mail: andrew.beet [at] noaa [dot] gov
 * Google Scholar: [A(R) Beet](https://scholar.google.com/citations?user=xLF4sJ8AAAAJ&hl=en)
