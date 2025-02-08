@@ -9,37 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Positions
+======
+* 2021-present: **Research Scientist/Analyst**, IBSS in support of NOAA Fisheries Academic, Silver Springs, MD
+* 2016 - present **Guest Investigator**, Woods Hole Oceanographic Institution, Woods Hole, MA
+* 2016-2021: ** research Scientist/Analyst**, Integrated Statistics in support of NOAA Fisheries, Woods Hole, MA
+* 2002 - 2016: **Information Systems Associate**, Woods Hole Oceanographic Institution, Woods Hole, MA
+* 1996 - 2002: **Research Assistant**, Woods Hole Oceanographic Institution, Woods Hole, MA
+* 2001 - 2002: **Database Designer**, Lobster Conservancy, Friendship, ME
+* 2002 - present: **Web Designer**, Bello Photography, Mashpee, MA
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* M.Phil in Statistics, University College of Wales, Swansea, 1995
+* B.S. (1st) in Statistics, University College of Wales, Swansea, 1993
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Analysis
+  * R, Matlab/FreeMat
+* Coding Environments
+  * R-Studio, Visual Studio Code, Emacs
+* Comupter Languages
+  * R, Perl, C++, ADMB, MATLAB
+* Documentation
+  * R markdown, markdown, Latex
+* Web Languages
+  * HTML, CSS, PHP
+* Data Management
+  * Oracle, SQL, Access
+* Version Control
+  * Git, GitHub
+* Design Software
+  * Lightroom, Photoshop
+  
 
 Publications
 ======
@@ -47,18 +51,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Talks
+# ======
+#   <ul>{% for post in site.talks reversed %}
+#     {% include archive-single-talk-cv.html  %}
+#   {% endfor %}</ul>
+#   
+# Teaching
+# ======
+#   <ul>{% for post in site.teaching reversed %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
+#   
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
