@@ -22,8 +22,8 @@ Professional Positions
 Education
 ======
 
-* M.Phil in Statistics, University College of Wales, Swansea, 1995
-* B.S. (1st) in Statistics, University College of Wales, Swansea, 1993
+* M.Phil in Statistics, [University College of Wales, Swansea](https://www.swansea.ac.uk/), 1995
+* B.S. (1st) in Statistics, [University College of Wales, Swansea](https://www.swansea.ac.uk/), 1993
 
 Skills
 ======
