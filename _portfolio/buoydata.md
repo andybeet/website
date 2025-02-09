@@ -4,7 +4,7 @@ excerpt: "R package serving National Data Buoy Center (NDBC) data from all buoys
 collection: portfolio
 ---
 
-`buoydata` is a n R package that allows a user to easily download and process buoy data hosted by [National Data Buoy Center](https://www.ndbc.noaa.gov/).
+`buoydata` is an R package that allows a user to easily download and process buoy data hosted by [National Data Buoy Center](https://www.ndbc.noaa.gov/).
 
 `buoydata` allows a user to download multiple years of data and stitch them together in a single data frame.
 
