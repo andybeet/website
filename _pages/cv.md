@@ -11,13 +11,13 @@ redirect_from:
 
 Professional Positions
 ======
-* 2021-present: **Research Scientist/Analyst**, IBSS in support of NOAA Fisheries Academic, Silver Springs, MD
-* 2016 - present **Guest Investigator**, Woods Hole Oceanographic Institution, Woods Hole, MA
-* 2016-2021: **Research Scientist/Analyst**, Integrated Statistics in support of NOAA Fisheries, Woods Hole, MA
-* 2002 - 2016: **Information Systems Associate**, Woods Hole Oceanographic Institution, Woods Hole, MA
-* 1996 - 2002: **Research Assistant**, Woods Hole Oceanographic Institution, Woods Hole, MA
-* 2001 - 2002: **Database Designer**, Lobster Conservancy, Friendship, ME
-* 2002 - present: **Web Designer**, Bello Photography, Mashpee, MA
+* 2021-present: **Research Scientist/Analyst**, [IBSS](https://ibsscorp.com/) in support of NOAA Fisheries Academic, Silver Springs, MD
+* 2016 - present **Guest Investigator**, [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA
+* 2016-2021: **Research Scientist/Analyst**, [Integrated Statistics](http://www.integratedstatistics.com/) in support of NOAA Fisheries, Woods Hole, MA
+* 2002 - 2016: **Information Systems Associate**, [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA
+* 1996 - 2002: **Research Assistant**, [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA
+* 2001 - 2002: **Database Designer**, [Lobster Conservancy](http://www.lobsters.org/), Friendship, ME
+* 2002 - present: **Web Designer**, [Bello Photography](https://www.bellophoto.com/), Mashpee, MA
 
 Education
 ======
