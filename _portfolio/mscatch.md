@@ -1,0 +1,14 @@
+---
+title: "mscatch"
+excerpt: "R package to expand total catch by species and area to lengh and age comps<br/><img src='/images/mscatch-250px.png'>"
+collection: portfolio
+---
+
+The goal of `mscatch` is to:
+
+* Expand total catch by species and area apportioned to length composition
+* Expand total catch by species and area apportioned to age composition
+
+Currently in development ...
+
+* Github: View the [mscatch](https://github.com/NOAA-EDAB/mscatch?tab=readme-ov-file#mscatch-) R package
