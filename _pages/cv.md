@@ -13,7 +13,7 @@ Professional Positions
 ======
 * 2021-present: **Research Scientist/Analyst**, IBSS in support of NOAA Fisheries Academic, Silver Springs, MD
 * 2016 - present **Guest Investigator**, Woods Hole Oceanographic Institution, Woods Hole, MA
-* 2016-2021: ** research Scientist/Analyst**, Integrated Statistics in support of NOAA Fisheries, Woods Hole, MA
+* 2016-2021: **Research Scientist/Analyst**, Integrated Statistics in support of NOAA Fisheries, Woods Hole, MA
 * 2002 - 2016: **Information Systems Associate**, Woods Hole Oceanographic Institution, Woods Hole, MA
 * 1996 - 2002: **Research Assistant**, Woods Hole Oceanographic Institution, Woods Hole, MA
 * 2001 - 2002: **Database Designer**, Lobster Conservancy, Friendship, ME
@@ -43,7 +43,10 @@ Skills
   * Git, GitHub
 * Design Software
   * Lightroom, Photoshop
-  
+* Environments
+  * Linux, Windows, Mac, Cloud computing
+* Containers
+  * Docker, Podman, Singularity
 
 Publications
 ======
@@ -51,18 +54,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-# ======
-#   <ul>{% for post in site.talks reversed %}
-#     {% include archive-single-talk-cv.html  %}
-#   {% endfor %}</ul>
-#   
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching reversed %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-#   
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
+  
+<!--#  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+-->
