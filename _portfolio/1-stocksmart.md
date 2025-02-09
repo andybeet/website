@@ -2,7 +2,6 @@
 title: "stocksmart"
 excerpt: "R package serving stock assessment data for all federally managed species<br/><img src='/images/stocksmart-250px.png'>"
 collection: portfolio
-date: 2025-01-01
 ---
 
 Stock assessments reports are typically lengthy documents containing a
