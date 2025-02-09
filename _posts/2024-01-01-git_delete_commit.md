@@ -10,7 +10,7 @@ We've all done it, you'll be happily commiting and pushing to GitHub from either
 
 Lets go over an example. Shown below are the last two commits from one of my GitHub repositories
 
-![git_delete]("images/posts/git_delete.png")
+![git_delete]("/images/posts/git_delete.png")
 
 Let's suppose i want to delete the very last commit. You first need to make sure the branch is not "protected". To do this check `Settings` -> `Branches` in the repo.
 
