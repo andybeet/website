@@ -1,0 +1,13 @@
+---
+title: "Lessening the Hazards of Florida Red Tides: A Common Sense Approach"
+collection: publications
+category: manuscripts
+permalink: /publication/2020_hoagland1
+excerpt: 'In the Gulf of Mexico, especially along the southwest Florida coast, blooms of the dinoflagellate Karenia brevis are a coastal natural hazard. The organism produces a potent class of toxins, known as brevetoxins, which are  ...'
+date: 2020-07-08
+venue: 'Frontiers in Marine Science'
+paperurl: 'https://doi.org/10.3389/fmars.2020.00538'
+citation: 'Hoagland, P., Kirkpatrick, B., Jin, D., Kirkpatrick, G., Fleming, L.E., Ullmann, S.G., Beet, A., Hitchcock, G., Harrison, K.K., Li, Z.C., Garrison, B. Diaz, R.E., Lovko, V.  (2020). <i>Frontiers in Marine Science</i> &quot;7 (538).&quot;.'
+---
+
+In the Gulf of Mexico, especially along the southwest Florida coast, blooms of the dinoflagellate Karenia brevis are a coastal natural hazard. The organism produces a potent class of toxins, known as brevetoxins, which are released following cell lysis into ocean or estuarine waters or, upon aerosolization, into the atmosphere. When exposed to sufficient levels of brevetoxins, humans may suffer from respiratory, gastrointestinal, or neurological illnesses. The hazard has been exacerbated by the geometric growth of human populations, including both residents and tourists, along Florida’s southwest coast. Impacts to marine organisms or ecosystems also may occur, such as fish kills or deaths of protected mammals, turtles, or birds. Since the occurrence of a severe Karenia brevis bloom off the southwest Florida coast three-quarters of a century ago, there has been an ongoing debate about the best way for humans to mitigate the impacts of this hazard. Because of the importance of tourism to coastal Florida, there are incentives for businesses and governments alike to obfuscate descriptions of these blooms, leading to the social amplification of risk. We argue that policies to improve the public’s ability to understand the physical attributes of blooms, specifically risk communication policies, are to be preferred over physical, chemical, or biological controls. In particular, we argue that responses to this type of hazard must emphasize maintaining the continuity of programs of scientific research, environmental monitoring, public education, and notification. We propose a common-sense approach to risk communication, comprising a simplification of the public provision of existing sources of information to be made available on a mobile website.
