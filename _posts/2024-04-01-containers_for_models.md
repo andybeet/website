@@ -40,7 +40,7 @@ Containers provide a means to create an environment in which you can install all
 
 I co-develop a multispecies ecosystem model in [ADMB](https://www.admb-project.org/). For several reasons, none of which i will discuss here, i can no longer install ADMB on my local (windows) machine. I also do not have permissions to install ADMB on any of the servers i have access to. However, `podman` is installed on the servers.
 
-1. Create the Dockerfile
+#### Create the Dockerfile
 
 The following content should be saved in a file called `Dockerfile`
 
@@ -87,7 +87,7 @@ This might seem complicated at first. However, if you step through the file it i
 
 Commands that are `CAPTALIZED` are Docker specific commands
 
-2. Build the `Dockerfile`
+#### Build the `Dockerfile`
 
 This is the process of telling Docker to run through the commands in the `Dockerfile` to create an image, that is portable. This is achieved with one line of code
 
@@ -98,7 +98,7 @@ podman build -t model:version1 .
 
 This could take a while to run. The result is an image called `model` with a tag called `version1`
 
-3. Run the image `model:version`
+#### Run the image `model:version1`
 
 Another one liner, but a little more nuanced. Depending on how you want your model to perform, you might need to pass inputs to the model or pass output from the model. So when you run the image you will need to `mount` a path to a location on the server from a location inside the container for your data transfer. For example:
 
