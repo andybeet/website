@@ -6,7 +6,7 @@ tags:
   - R
 ---
 
-Yes, i know, you love using the library() function in R! But it can be a real problem for several reasons:
+Yes, i know, you love using the `library()` function in R! But it can be a real problem for several reasons:
 
 * It makes your code too ambiguous 
 * It can mask other functions with similar names, if you have multiple library statements
@@ -20,7 +20,7 @@ When you library multiple packages, it becomes unclear which functions belong to
 
 ### Masking/ name clashes
 
-When you library multiple packages, if any of the packages contain functions with the same name, or contain functions with the same name as functions packages bundleD with R (like `stats` or `utils`) then all but one will be masked. The order in which packages are libraried matters. The most recent one will take precedence
+When you library multiple packages, if any of the packages contain functions with the same name, or contain functions with the same name as functions in packages bundled with R (like `stats` or `utils`) then all but one will be masked. The order in which packages are libraried matters. The most recent one will take precedence
 
 Consider this example
 
@@ -59,6 +59,6 @@ iris |>
 
 ```
 
-Here, the `pivot_longer` functions comes from the `tidyr` functions, `summarize` and `group_by` come from the `dplyr` package and `mean` comes from `base`. 
+Here, the `pivot_longer` function comes from the `tidyr` package, `summarize` and `group_by` come from the `dplyr` package and `mean` comes from `base`. 
 
 In conclusion: Yes, you do end up typing a lot more but overall it's a good practice!
