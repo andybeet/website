@@ -22,17 +22,17 @@ Step three: create a tag for your image
 Step four: push the image
 
 ```
-podman login docker.io
-podman tag myCoolImage:tag username/myCoolImage:tag
-podman push username/myCoolImage:tag
+docker login docker.io
+docker tag myCoolImage:tag username/myCoolImage:tag
+docker push username/myCoolImage:tag
 ```
 Done!
 
 To pull the image from DockerHub when on another platform
 
 ```
-podman login docker.io
-podman pull docker.io/username/myCoolImage:tag
+docker login docker.io
+docker pull docker.io/username/myCoolImage:tag
 ```
 
 Now you can start to feel cool again!
