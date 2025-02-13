@@ -1,6 +1,6 @@
 ---
 title: "NEUS-Atlantis"
-excerpt: "End-to-end Ecosystem model for the northeast USA<br/><img src='/images/portfolio/neus-200px.png'>"
+excerpt: "End-to-end Ecosystem model for the northeast USA<br/><img src='/images/portfolio/neus-200px.PNG'>"
 collection: portfolio
 ---
 
