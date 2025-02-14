@@ -39,4 +39,4 @@ Teams
 Contact
 ======
 
-Want to work together? Please [reach out](https://andybeet.github.io/contact/)
+Want to work together? Please [reach out]({{site.baseurl}}/contact/)
