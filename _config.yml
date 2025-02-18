@@ -22,7 +22,7 @@ repository               : "website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "andy_beet_head_2025.png"
   name             : "Andy Beet"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist and Analyst"
