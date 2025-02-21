@@ -15,7 +15,7 @@ My work and research
 As a team member of the [Ecosystem Dynamics and Assessment Branch](https://www.fisheries.noaa.gov/about/northeast-ecosystem-dynamics-and-assessment) we are interested in detecting and evaluating changes in the structure of marine communities at the ecosystem level. These changes can be caused by many potential factors including climate, oceanographic, biological, and human related activities. We aim to synthesize findings across many indicators in time and space then report these findings to managers and the scientific community.
 
 My current research interests evolve around the idea of Ecosystem-Based Fisheries Management (EBFM). 
-* Evaluating the resilience of ecosystems to overfishing using end-to-end ecosystem models like [Atlantis](https://github.com/Atlantis-Ecosystem-Model)
+* Evaluating the resilience of ecosystems to overfishing using end-to-end ecosystem models like [Atlantis]({{site.baseurl}}/portfolio/2025_02_13_neusatlantis)
 * Evaluating the impact of changes in fishing effort for defined "communities at sea" based on selected climate scenarios.
 * Evaluating different harvest control rule strategies (and the trade offs encountered) to achieve stability in a suite ecosystem metrics: revenue, population levels, diversity etc.
 * Developing statistical tests for short term trend detection 
