@@ -8,4 +8,6 @@ collection: portfolio
 
 All spatial data objects bundled with the package are related to Northeast Fisheries Science Center (NEFSC) at NOAA Fisheries. 
 
-* Github: View the [NEFSCspatial](https://github.com/NEFSC/NEFSC-Spatial?tab=readme-ov-file#nefscspatial--) R package
+* Github: 
+  * View the [NEFSCspatial](https://github.com/NEFSC/NEFSC-Spatial?tab=readme-ov-file#nefscspatial--) R package code
+  * View the [NEFSCspatial](https://nefsc.github.io/NEFSC-Spatial/) documentation
