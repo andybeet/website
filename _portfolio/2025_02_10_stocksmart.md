@@ -22,4 +22,6 @@ Jurisdiction, Point of contact, Year of assessment etc)
 The data are extracted and processed from NOAA’s [Stock
 SMART](https://apps-st.fisheries.noaa.gov/stocksmart) web based data portal.
 
-* Github: View the [stocksmart](https://github.com/NOAA-EDAB/stocksmart/) R package
+* Github:
+  * View the [stocksmart](https://github.com/NOAA-EDAB/stocksmart/) R package code
+  * View the [stocksmart](https://noaa-edab.github.io/stocksmart/) documentation
