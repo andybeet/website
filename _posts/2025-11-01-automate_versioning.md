@@ -26,6 +26,8 @@ You can do all of this using a GitHub action. Within the workflow, the steps you
 
 This seems like a lot, and it might take a while to get things set up and working correctly, but the benefits are huge!
 
+## Example: Stocksmart package
+
 As a real example, consider the R data package [stocksmart](https://noaa-edab.github.io/stocksmart/). This is an R data package that serves up data from all federally managed fish stocks in the USA.
 Our group relies on this data to update annual ecosystem reports. Having the data automatically pulled, versioned, and documented saves us a lot of time.
 
@@ -39,6 +41,6 @@ The specifics of this [workflow](https://github.com/NOAA-EDAB/stocksmart/blob/ma
 * All files are committed to the repo
 * If changes are found a new release is created using the [usethis](https://usethis.r-lib.org/) package. specifically the `use_github_release` function.
 
-You will need to add secrets to your repo to allow for the email action and the GitHub release function to behave as expected. Once set up this workflow is a maintenance light way to always have upto date data to work with in R, not only for you, but for the R community at large!
+You will need to add [secrets](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets) to your repo to allow for the email action and the GitHub release function to behave as expected. Once set up this workflow is a maintenance light way to always have up-to date data to work with in R, not only for you, but for the R community at large!
 
 Happy coding!
