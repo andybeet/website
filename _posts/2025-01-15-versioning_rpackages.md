@@ -14,7 +14,7 @@ All great questions! :rofl: Lets talk this through ...
 
 So in principle, every time content is pushed to the `main` branch of your R package repository should trigger a versioning/release event. This statement assumes that you are using best practices and have adopted a branching strategy. This earlier post on selecting a [branching strategy]({{site.baseurl}}/posts/2024/07/maindevfeature/) is worth a read if you are unsure of what this means.
 
-Under the branching strategy i like to employ, called feature branching, all new features and bug fixes reside on their own branch until completion. At that point they are pulled into the development branch, often named `dev`, via a pull request. At this point multiple workflows are run to check various aspects of the code, typically R-CMD checks. Check out the post on [enhancing your R packages]({{site.baseurl}}/posts/2025/02/rpackage_components/) for more info on this.
+Under the branching strategy i like to employ, called feature branching, all new features and bug fixes reside on their own branch until completion. At that point they are pulled into the development branch, often named `dev`, via a pull request. At this point multiple workflows are run to check various aspects of the code, typically R-CMD checks. Check out the post on [enhancing your R packages]({{site.baseurl}}/posts/2025/02/enhancing_rpackages/) for more info on this.
 
 If all checks pass, then the development branch is ready to be pulled in to the main branch. If they fail, you'll need to address the issues and fix them. Better you do it now vs a user submitting an issue at a later date. 
 
@@ -24,7 +24,7 @@ After you then, merge the pull request from `dev` -> `main` you immediately rele
 
 So this covers the how, when, and what? But what about the questions relating to how often should a package be released or what versioning scheme should be used?
 
-The versioning scheme that is considered best practice is [semantic versioning](https://semver.org/). An earlier post, [Versioning R packages]({{site.baseurl}}/posts/2025/02/enhancing_rpackages/), goes into more detail on how this relates to R package development.
+The versioning scheme that is considered best practice is [semantic versioning](https://semver.org/). An earlier post, [Versioning R packages]({{site.baseurl}}/posts/2024/12/semantic_versioning/), goes into more detail on how this relates to R package development.
 
 And with regard to how often you should release, well that depends on a lot of things, how frequently bugs are found and addressed or how quickly you want to add new features. Of course these do not need to be versioned as independent events. You can bundle new features and bug fixes into the same release of your package. You just need to adjust the version number to reflect these changes and document the changes in the NEWS.md file, often termed the changelog.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Semantic versioning'
 date: 2024-12-01
-permalink: /posts/2024/12/rpackage_components/
+permalink: /posts/2024/12/semantic_versioning/
 tags:
   - R
 ---
