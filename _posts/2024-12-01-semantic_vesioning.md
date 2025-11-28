@@ -4,6 +4,7 @@ date: 2024-12-01
 permalink: /posts/2024/12/semantic_versioning/
 tags:
   - R
+  - versioning
 ---
 
 The official site for [Semantic versioning](https://semver.org/) is available in many languages indicating, in part, how important this subject is across the world for software development. It provides a clear, standardized way to communicate the nature of changes between releases, which helps manage dependencies and predict the impact of updates. By using a version format like MAJOR.MINOR.PATCH, developers indicate whether an update is a backwards-incompatible breaking change (MAJOR), a new backwards-compatible feature (MINOR), or a backwards-compatible bug fix (PATCH).

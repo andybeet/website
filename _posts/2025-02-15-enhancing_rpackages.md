@@ -6,6 +6,7 @@ tags:
   - R
   - workflows
   - GitHub
+  - versioning
 ---
 
 So you want to create an R package? Well there are a ton of resources available to help with this, the best being the official book from the Posit folks, [R Packages (2e)](https://r-pkgs.org/). However after the initial set up, organization, and implementation of the package there are several other related components you should think about including to make it function, look, and feel polished!
