@@ -24,7 +24,7 @@ After you then, merge the pull request from `dev` -> `main` you immediately rele
 
 So this covers the how, when, and what? But what about the questions relating to how often should a package be released or what versioning scheme should be used?
 
-The versioning scheme that is considered best practice is [semantic versioning](https://semver.org/). An earlier post, [Versioning R packages]({{site.baseurl}}/posts/2024/12/rpackage_components/), goes into more detail on how this relates to R package development.
+The versioning scheme that is considered best practice is [semantic versioning](https://semver.org/). An earlier post, [Versioning R packages]({{site.baseurl}}/posts/2025/02/enhancing_rpackages/), goes into more detail on how this relates to R package development.
 
 And with regard to how often you should release, well that depends on a lot of things, how frequently bugs are found and addressed or how quickly you want to add new features. Of course these do not need to be versioned as independent events. You can bundle new features and bug fixes into the same release of your package. You just need to adjust the version number to reflect these changes and document the changes in the NEWS.md file, often termed the changelog.
 
