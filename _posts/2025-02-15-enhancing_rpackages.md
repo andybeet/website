@@ -9,7 +9,7 @@ tags:
   - versioning
 ---
 
-So you want to create an R package? Well there are a ton of resources available to help with this, the best being the official book from the Posit folks, [R Packages (2e)](https://r-pkgs.org/). However after the initial set up, organization, and implementation of the package there are several other related components you should think about including to make it function, look, and feel polished!
+So you want to create an R package? Well there are a ton of resources available to help with this, the best being the official book from the Posit folks, [R Packages (2e)](https://r-pkgs.org/). However, after the initial set up, organization, and implementation of the package there are several other related components you should think about including to make it function, look, and feel polished!
 
 You can see ALL of the components mentioned in this post implemented in the R package [`stocksmart`](https://noaa-edab.github.io/stocksmart/)
 
@@ -32,7 +32,7 @@ If you'd like others to use your package, then having a nice looking website wit
 * `pkgdown` will create the website locally from a single function call, `build_site()`. The default layout is pretty good right out of the box, but you can customize a little if you'd like.
 * `usethis` will create a GitHub action (with the functions `use_github_action()` or `use_pkgdown_github_pages()`) to redeploy your website everytime you make changes to the code or documentation
 
-Not only will a website make your package more user friendly, it will highlight your documentation and show you where you need to focus more attention. A previous post on [GitHub actions]({{site.baseurl}}/posts/2024/05/githubactions1/) for R packages explain in more detail.
+Not only will a website make your package more user friendly, it will highlight your documentation and show you where you need to focus more attention. A previous post on [GitHub actions]({{site.baseurl}}/posts/2024/05/githubactions1/) for R packages explain this in more detail.
 
 ### Add user guides
 
@@ -48,7 +48,7 @@ These custom templates are written in [YAML](https://learnxinyminutes.com/yaml/)
 
 Adding a guide with instructions on how users can contribute to your package is worthwhile if you want to avoid potential future headaches! Although this does depend on whether people actually read the guidelines, which often they don't! This then begs the question, why bother? Well the answer is, you can point people to the document when needed without having to waste time explaining the process each time. The same applies to a [code of conduct](https://www.jessesquires.com/blog/2020/01/24/github-default-community-health-files/) document, outlining what you expect from contributors regarding behaviour and the type of environment you want to foster.
 
-Best practices often add these two documents as markdown, `.md`, files in the root of your repository with names `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md`. A great templates can be found at [@jessesquires](https://github.com/jessesquires/.github) to get you started.
+Best practices often suggest to add these two documents as markdown, `.md`, files in the root of your repository with names `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md`. A great template, to get you started, can be found at [@jessesquires](https://github.com/jessesquires/.github).
 
 Oh, once again `pkgdown` will take care of integrating them into your site automatically!
 

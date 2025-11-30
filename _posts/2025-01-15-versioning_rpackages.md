@@ -9,7 +9,7 @@ tags:
   - versioning
 ---
 
-You've reached the point in which you want to officially start to version your R package. How do you go about doing this? When should you version? How often? What versioning scheme should i use? How do i document the changes?
+You've reached the point in which you want to officially start to version your R package. How do you go about doing this? When should you version? How often? What versioning scheme should you use? How do you document the changes?
 
 All great questions! :rofl: Lets talk this through ...
 
