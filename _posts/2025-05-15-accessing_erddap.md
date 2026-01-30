@@ -10,7 +10,7 @@ Many publicly available scientific datasets from around the world can be found o
 
 The data are served up in a consistent way, allowing users to visualize and download data in various standard data formats, like netCDF (nc), csv, txt, JSON.
 
-While it is perfectly reasonable to interact with these ERDDAP™ servers through a web interface: and often preferable initially to identify data sources, read metadata, and visualize the data, pulling and working with the data is often best accomplished using a language like python or R. Since i mostly use R for my work, we'll go that route.
+While it is perfectly reasonable to interact with these ERDDAP™ servers through a web interface, and often preferable initially to identify data sources, read metadata, and visualize the data, pulling and working with the data is often best accomplished using a language like python or R. Since i mostly use R for my work, we'll go that route.
 
 For R users there is a wonderful package called [`rerddap`](https://docs.ropensci.org/rerddap/) designed to help search, connect, and download data from ERDDAP™ servers. Lets go through an example to demonstrate how to get started. The steps involved are
 
