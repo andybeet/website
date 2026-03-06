@@ -17,7 +17,7 @@ Here are a few reasons why they are great for collaborative teams:
 
 Templates act as a checklist that forces contributors to think through their submission.
 
-For Issues: Instead of a report saying "It's broken," a template requires a Minimal Reproducible Example [Reprex]({{site.baseurl}}/posts/2024/01/reprex/), environment details (like your R version or OS), and clear steps to recreate the bug.
+For Issues: Instead of a report saying "It's broken," a template requires a Minimal Reproducible Example ([Reprex]({{site.baseurl}}/posts/2024/01/reprex/)), environment details (like your R version or OS), and clear steps to recreate the bug.
 
 For Pull Requests: It ensures the author explains the "Why" behind a change, not just the "What."
 
