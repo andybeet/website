@@ -24,14 +24,14 @@ Using this tool you can reformat ALL existing code in a repo. From the terminal 
 
 The easiest way to keep the repo formatted consistently is to include an `air.toml` file in the root directory of your repo. The file can remain empty, or you can add specific formatting you'd like in your repo. If left empty `air` will apply defaults settings. This is often a good option. 
 
-The benefit of using this `air.toml` file is that anyone who contributes to your repo will automatically have their contributed code formatted as dictated by the `toml` file, rather than any specific user level settings. A no worry solution for consistent formatting of code. The only caveat is that contributors will need to have air installed too, but having the `air.toml` in the repo and indicating that air formatting is required by using a [pull request template]({{site.baseurl}}/posts/2025/06/github_templates/)), for example, this should be painless.
+The benefit of using this `air.toml` file is that anyone who contributes to your repo will automatically have their contributed code formatted as dictated by the `toml` file, rather than any specific user level settings. A no worry solution for consistent formatting of code. The only caveat is that contributors will need to have air installed too, but having the `air.toml` in the repo and indicating that air formatting is required by using a [pull request template]({{site.baseurl}}/posts/2025/06/github_templates/), for example, this should be painless.
 
 ### Reformatting code using GitHub Actions
 
 If you want to take things to the next level, you can create a GitHub action to run on all pull requests. The action will check for formatting inconsistencies and fail if formatting is required. If this is of interest see the [`air`](https://posit-dev.github.io/air/integration-github-actions.html) documentation
 
 
-Now all you need to do is worry about is coding styles, a subject we'll talk about at a later date.
+Now all you need to worry about is coding styles, a subject we'll talk about at a later date.
 
 
 
