@@ -46,11 +46,19 @@ In GitHub, templates can be written in either markdown or yaml files and are sav
 * .github/ISSUE_TEMPLATE - for issues templates
 * .github/PULL_REQUEST_TEMPLATE - for PR templates
 
-You can list as many templates as you like, for example for issues you could include templates for
+You can list as many issue templates as you like, for example for issues you could include templates for
 
 * `Bug Reporting`
 * `Feature Requests`
 * `Data Issues`
+
+### Caveat: Pull request 
+
+There is a caveat worth mentioning with pull requests templates. If you'd like a default template to appear EVERY time you make a pull request then you must have a default template called `pull_request_template.md` residing in the `.github` folder.
+
+If you want to include more than this default template you will need to include additional templates to the `PULL_REQUEST_TEMPLATE` folder. You will NOT be prompted by GitHub as to which one you want to use. If you have a default that will be used. And, as of date of publication, GitHub does not provide a drop down to select a pull request template. To access the templates in the `PULL_REQUEST_TEMPLATE` folder you need to add a snippet of additional text to the URL - `&template=your_template_name.md`.
+
+## Examples
 
 To see some examples from across the web 
 
